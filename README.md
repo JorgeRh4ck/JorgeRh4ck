@@ -14,7 +14,7 @@ Si encuentras algún error, tienes sugerencias de mejora o deseas contribuir con
 
 ## Contacto
 
-Si deseas contactarme, puedes hacerlo a través de jorgereyesb11@gmail.com o @jr_h4ck en Twitter. Estoy emocionado de conocer a otros apasionados de la seguridad informática y colaborar en proyectos interesantes.
+Si deseas contactarme, puedes hacerlo a través de jorgereyesb11@gmail.com o @jr_h4ck en X. Estoy emocionado de conocer a otros apasionados de la seguridad informática y colaborar en proyectos interesantes.
 
 ¡Gracias por visitar mi perfil y explorar mis notas de pentesting y programas! Espero que encuentres algo útil y relevante para tus propios proyectos y aprendizaje. ¡Bienvenido(a) a este emocionante mundo de la ciberseguridad!
 
